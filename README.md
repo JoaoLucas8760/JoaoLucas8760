@@ -1,9 +1,14 @@
-## Olá, Eu sou o João Lucas 😜
-#### Meu Linkedin 👇
+## Hello World!, I'm João Lucas
+#### 💻 I'm Developer Front End.
+
+#### 🏡 I’m from Céara, Brazil.
+
+
+# My Linkedin 👇
 
 [![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-lucas-cardoso-06819320a/)
 
-## Tecnologias que uso no meu dia a dia
+## Technologies I use in my daily life
 
 <div style="display: inline_block"> <br/> 
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
