@@ -44,7 +44,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaolucas8760&layout=compact)](https://github.com/joaolucas8760)
+
 
 
 
