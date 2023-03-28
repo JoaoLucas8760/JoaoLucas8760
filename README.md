@@ -3,7 +3,7 @@
 
 #### 🏡 I’m from Céara, Brazil.
 
-![mario coding](https://i.imgur.com/1ZvVkDc.gif)
+
 
 
 ## 🧠 Minha Stack
