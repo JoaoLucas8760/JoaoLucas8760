@@ -6,8 +6,8 @@
 
 
 
-## 🧠 Minha Stack
- Essas são algumas das tecnologias que uso no dia a dia
+## 🧠 My Stack
+ 
 <div align="center">
  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
