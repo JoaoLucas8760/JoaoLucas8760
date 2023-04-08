@@ -1,4 +1,4 @@
-## Hello!, I'm João Lucas 
+## Hello world!, I'm João Lucas 
 #### 💻 I'm Developer Front End.
 
 #### 🏡 I’m from Céara, Brazil.
