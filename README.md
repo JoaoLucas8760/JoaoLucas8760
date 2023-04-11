@@ -1,4 +1,4 @@
-## Hello world!, I'm João Lucas 
+## Hello world!, I'm João Lucas  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
 #### 💻 I'm Developer Front End.
 
 #### 🏡 I’m from Céara, Brazil.
