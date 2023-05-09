@@ -1,39 +1,43 @@
-## Hello world!, I'm João Lucas  <img src=https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif width="30">
-#### 💻 I'm Developer Front End.
+<h1>Hi 👋, I'm João Lucas</h1>
+<h4> 👨‍💻 Fullstack Developer</h4>
 
-#### 🏡 I’m from Céara, Brazil.
-
-
+<h4> 🌍 Fortaleza, Céara, Brazil</h4> 
 
 
-## 🧠 My Stack
+
+
+##  Technologies:
  
-<div align="center">
- <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="100">      
- <img src="https://i.giphy.com/media/KzJkzjggfGN5Py6nkT/200.webp" width="100">      
- <img src="https://i.giphy.com/media/IdyAQJVN2kVPNUrojM/200.webp" width="100">      
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase" width="500"/>
+  </a>
+</p>
+
 </div>
  
  
-##
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center"height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img align="center"height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-</div>
+<h5>📊 My stats:</h2>
 
-##
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLucas8760&show_icons=true&theme=transparent)
+<br/>
 
 
 
 
-# Connect with me
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaolucascardoso/)
+
+
+
+<h5>📷 Connect with me:</h2>
+
+
+
+[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucascardoso/)
+[![Linkedin](https://skillicons.dev/icons?i=discord)]([https://www.linkedin.com/in/joaolucascardoso/](https://discordapp.com/users/680811631315648543))
+                                                                
+
 
 
 
