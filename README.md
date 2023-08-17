@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm João Lucas</h1>
-<h4> 👨‍💻 Fullstack Developer</h4>
+<h4> 👨‍💻 Front End Developer</h4>
 
 <h4> 🌍 Fortaleza, Céara, Brazil</h4> 
 
