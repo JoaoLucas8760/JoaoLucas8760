@@ -20,7 +20,7 @@
  
 <h5>📊 My stats:</h2>
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaoLucas8760&show_icons=true&theme=transparent)
+
 <br/>
 
 
