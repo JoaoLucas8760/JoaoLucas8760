@@ -1,57 +1,20 @@
-<h1> I am João Lucas  👋🏻</h1>
-<h4>Software engineer</h4>
-<h4>Co-founder Atomous</h4> 
-
-
-<h4>I'm from Fortaleza</h4> 
+# Hey, I'm João!
 
 
 
+### I'm a co-founder  [Atomous  ⚛️](https://atomous.com.br). 
 
-##  Technologies:
+Recently, I realesed my startup and we make solutions transforming ideas into code.
+
+As a software engineer I create solution that resolve problems, always looking for better results.
+
+> If you're interested in the work I do, follow me on my social medias.
+
+ <a rel="me" href="https://www.instagram.com/joaocardosoy">Instagram</a>
+
  
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,ts,nodejs,firebase" width="500"/>
-  </a>
-</p>
-
-</div>
+ <a rel="me" href="https://www.linkedin.com/in/joaolucascardoso/">Linkedin</a>
  
- 
-
-
-
-<br/>
-
-
-
-
-
-
-
-
-<h5>📷 Connect with me:</h2>
-
-
-
-[![Linkedin](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/joaolucascardoso/)
-[![Linkedin](https://skillicons.dev/icons?i=discord)]([https://www.linkedin.com/in/joaolucascardoso/](https://discordapp.com/users/680811631315648543))
-                                                                
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
