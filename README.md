@@ -1,7 +1,9 @@
-<h1>Hi 👋, I'm João Lucas</h1>
-<h4> 👨‍💻 Front End Developer</h4>
+<h1> I am João Lucas  👋🏻</h1>
+<h4>Software engineer</h4>
+<h4>Co-founder Atomous</h4> 
 
-<h4> 🌍 Fortaleza, Céara, Brazil</h4> 
+
+<h4>I'm from Fortaleza</h4> 
 
 
 
@@ -18,7 +20,7 @@
 </div>
  
  
-<h5>📊 My stats:</h2>
+
 
 
 <br/>
