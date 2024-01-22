@@ -2,7 +2,7 @@
 
 
 
-### I'm a co-founder  [Atomous  ⚛️](https://atomous.com.br). 
+### I'm a  [Atomous  ⚛️](https://atomous.com.br) co-founder . 
 
 Recently, I realesed my startup and we make solutions transforming ideas into code.
 
