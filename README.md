@@ -10,7 +10,7 @@ As a software engineer I create solution that resolve problems, always looking f
 
 > If you're interested in the work I do, follow me on my social medias.
 
- <a rel="me" href="https://www.instagram.com/joaocardosoy">Instagram</a>
+ <a rel="me" href="https://www.instagram.com/joaoatom">Instagram</a>
 
  
  <a rel="me" href="https://www.linkedin.com/in/joaolucascardoso/">Linkedin</a>
